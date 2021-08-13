@@ -1,8 +1,6 @@
-# countdown
+# Timer
 
-A new Flutter application.
-
-## Getting Started
+Android Flutter app that starts an upward couting timer, with stop & reset options.
 
 Below is the look and feel of the app
 ---
